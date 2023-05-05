@@ -4,7 +4,7 @@ For this assessment, you will be building a calculator in React. You are provide
 
 ## Before you begin
 
-If you execute the `nstartpm ` command before changing any code in this task, you'll get the notification in the code lab's terminal that reads *"webpack compiled successfully"*.
+If you execute the `npm start ` command before changing any code in this task, you'll get the notification in the code lab's terminal that reads *"webpack compiled successfully"*.
 
 You are now ready to start working on your app. Follow the comments in the code! They are your instructions on what you need to do to make this app work. For example, once you've added the imports, you should be able to serve the app. If still needs work, but at least you'll have the app showing in the browser.
 
